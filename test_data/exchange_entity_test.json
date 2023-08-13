@@ -1,0 +1,34 @@
+[
+    {
+      "_id": "64c64237a327766ee7d5c40a",
+      "requester": {
+        "fullname": "John Doe",
+        "username": "john_doe",
+        "email": "john.doe@example.com",
+        "phoneNumber": "1234567890",
+        "password": "password123",
+        "bio": "I love reading books",
+        "image": "profile_image_1.jpg",
+        "bookmarkedBooks": ["64c54b858aea68dd5072780a", "64c528d18aea68dd50727619"],
+        "exchangedRequests": []
+      },
+      "requestedBook": {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "language": "English"
+      },
+      "proposalBookData": {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "language": "English"
+      },
+      "proposalBook": "64c528d18aea68dd50727619",
+      "requestedUser": "64c64237a327766ee7d5c40a",
+      "status": "pending",
+      "message": "Can we exchange books?",
+      "formattedCreatedAt": "2023-08-05T12:34:56.789Z"
+    }
+  ]
+  

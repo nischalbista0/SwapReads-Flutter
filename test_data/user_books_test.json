@@ -1,0 +1,42 @@
+[
+    {
+        "_id": "64cf2615e2a95eb501f38fe0",
+        "title": "updated",
+        "author": "kasjkdkad",
+        "description": "khd",
+        "genre": "kjdsakd",
+        "language": "khjkadh",
+        "bookCover": "IMG-1691297292863.jpg",
+        "user": {
+            "id": "64ae7dedd886ca83017aab57",
+            "username": "kiran",
+            "fullname": "kiran",
+            "iat": 1691295335,
+            "exp": 1691381735
+        },
+        "date": "2023-08-06T04:48:21.281Z",
+        "createdAt": "2023-08-06T04:48:21.282Z",
+        "updatedAt": "2023-08-06T05:25:12.280Z",
+        "__v": 0
+    },
+    {
+        "_id": "64cf25fee2a95eb501f38fdd",
+        "title": "akjah",
+        "author": "kadh",
+        "description": "kdshqjkd",
+        "genre": "kdsahdd",
+        "language": "khdsak",
+        "bookCover": "IMG-1691297270396.jpg",
+        "user": {
+            "id": "64ae7dedd886ca83017aab57",
+            "username": "kiran",
+            "fullname": "kiran",
+            "iat": 1691295335,
+            "exp": 1691381735
+        },
+        "date": "2023-08-06T04:47:58.981Z",
+        "createdAt": "2023-08-06T04:47:58.997Z",
+        "updatedAt": "2023-08-06T04:47:58.997Z",
+        "__v": 0
+    }
+]
